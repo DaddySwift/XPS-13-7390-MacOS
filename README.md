@@ -4,6 +4,7 @@ GPU: Intel UHD 630
 Display: 1080p 60hz
 Ram: 16GB 2133 Mhz
 
+![Screenshot 2023-07-28 at 12 13 35 AM](https://github.com/DaddySwift/XPS-13-7390-MacOS/assets/93786629/65d7d9cd-c6d3-486c-ad6b-1fe6b8022007)
 
 EFI: https://drive.google.com/drive/folders/1Uz6z7C75OHMpRiCpI1xBxTXgG6gQN1hi?usp=sharing
 
@@ -18,3 +19,6 @@ Screen Mirroring Works
 What doesn't work:
 Mute button on the keyboard (only graphically, currently working on a fix) 
 Airdrop (requires different wifi card, but wifi card on xps 13 7390 is soldered on)
+
+
+
