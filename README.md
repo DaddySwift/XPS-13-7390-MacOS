@@ -1,5 +1,5 @@
 Specs: 
-CPU: i7-10710U
+CPU: i7-10710U   (i7-10510U works too!)
 GPU: Intel UHD 630
 Display: 1080p 60hz
 Ram: 16GB 2133 Mhz
